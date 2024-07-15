@@ -1,4 +1,4 @@
-﻿#ifndef LOCALIZATION_CN_H
+#ifndef LOCALIZATION_CN_H
 #define LOCALIZATION_CN_H
 
 #pragma once
@@ -459,6 +459,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         { "Open Folder", "打开文件夹" },
         { "Python", "Python" },
         { "Extend functionality now!", "立即扩展更多功能!" },
+        { "Enable", "启用" },
         { "Show nicknames", "显示用户名" },
         { "Show skill", "显示辅助特质" },
         { "Show talents", "显示天赋" },
@@ -471,7 +472,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         { "Apply Skin", "应用皮肤" },
         { "Restore Default", "恢复默认" },
         { "You don't have access to Skin Changer!", "您无权访问换肤器! " },
-        { "Select any skin", "选择要更换的皮肤" },
+        { "Select any skin", "选择所有皮肤" },
         { "CHARACTER", "角色" },
         { "SKIN NAME", "皮肤名称" },
         { "Skin Preview", "皮肤预览" },
