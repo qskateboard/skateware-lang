@@ -10,7 +10,7 @@ The Skateware-Lang repository is an open-source project dedicated to translating
 2. **Clone the Repository**
     - Clone your forked repository to your local machine:
       ```sh
-      git clone https://github.com/qskateboard/skateware-lang.git
+      git clone https://github.com/<YOUR_USERNAME>/skateware-lang.git
       ```
 
 3. **Create a New Branch**
