@@ -1,6 +1,6 @@
 # Skateware-Lang
 
-The Skateware-Lang repository is an open-source project dedicated to translating the Skateware application into various languages. We welcome contributions from anyone willing to help make Skateware accessible to a global audience.
+The Skateware-Lang repository is an open-source project dedicated to translating the skateware.win application into various languages. We welcome contributions from anyone willing to help make Skateware accessible to a global audience.
 
 ## How to Contribute
 
@@ -10,7 +10,7 @@ The Skateware-Lang repository is an open-source project dedicated to translating
 2. **Clone the Repository**
     - Clone your forked repository to your local machine:
       ```sh
-      git clone https://github.com/YOUR_USERNAME/skateware-lang.git
+      git clone https://github.com/qskateboard/skateware-lang.git
       ```
 
 3. **Create a New Branch**
