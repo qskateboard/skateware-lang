@@ -20,7 +20,7 @@ The Skateware-Lang repository is an open-source project dedicated to translating
       ```
 
 4. **Add Your Translations**
-    - Create a new header file for your language in the `include` directory, following the naming convention `LOCALIZATION_<LANGUAGE_CODE>.h`.
+    - Create a new cpp file for your language, following the naming convention `localization_<language_code>.cpp`.
     - Define the translation function and the respective translations as shown in the example below.
 
 ### Example Configuration File (C++)
@@ -50,7 +50,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
 
 ### Translation Guidelines
 
-- **File Naming:** Name your file as `localization_<language_code>.h`, where `<language_code>` is the ISO 639-1 language code.
+- **File Naming:** Name your file as `localization_<language_code>.cpp`, where `<language_code>` is the ISO 639-1 language code.
 - **Function Naming:** The function that returns the translations should be named `get<Language>Translations`, where `<Language>` is the name of the language in English (e.g., `getSpanishTranslations`).
 - **Translation Entries:** Each entry should be a key-value pair where the key is the English phrase and the value is the translated phrase.
 - **Comments:** Use comments to categorize translations (e.g., `// Auth Menu`).
