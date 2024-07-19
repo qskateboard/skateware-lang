@@ -11,7 +11,7 @@ inline std::unordered_map<std::string, std::string> getRussianTranslations() {
         // Auth Menu
         {"Login", "Логин"},
         {"Password", "Пароль"},
-        {"Auth", "Авторизоваться"},
+        {"Auth", "Войти"},
         {"Loading...", "Загрузка..."},
         {"Welcome back, ", "Добро пожаловать, "},
         {"Active subscriptions: ", "Активные подписки: "},
@@ -70,7 +70,7 @@ inline std::unordered_map<std::string, std::string> getRussianTranslations() {
         {"Prisoner", "Заключенный"},
         {"Entomologist", "Энтомолог"},
         {"Painter", "Художник"},
-        {"Batter", "Бэттер"},
+        {"Batter", "Баттер"},
         {"Toy Merchant", "Торговец игрушками"},
         {"Psychologist", "Психолог"},
         {"Patient", "Пациент"},
@@ -84,7 +84,7 @@ inline std::unordered_map<std::string, std::string> getRussianTranslations() {
         {"Aeroplanist", "Летчик"},
         {"Cheerleader", "Чирлидер"},
         {"Puppeteer", "Кукольник"},
-        {"Faro Lady", "Фаро Леди"},
+        {"Faro Lady", "Леди Фаро"},
         {"Fire Investigator", "Следователь по пожарам"},
 
         {"Hell Ember", "Адский пламень"},
