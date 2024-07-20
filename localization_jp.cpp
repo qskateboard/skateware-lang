@@ -173,7 +173,7 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"Golem", "黒レオ"},
         {"Doll", "パペット"},
         {"Red Doll", "赤パペット"},
-        {"Trap", "トラバサミ"},
+        {"Trap", "トラップ"},
         {"Butterfly", "蝶"},
         {"Tentacle", "触手"},
         {"Peaceful Pine", "安息松"},
