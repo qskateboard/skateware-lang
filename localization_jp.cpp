@@ -271,7 +271,7 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"Fonts was rebuilded", "フォントが再構築されました"},
         {"Cannot find target window!", "ターゲットウィンドウが見つかりません！"},
         {"Skinchanger: Skin was applied.", "スキンチェンジャー: スキンが適用されました"},
-        {"Skinchanger: Skins were restored.", "スキンチェンジャー: 元のスキンに戻りました"}
+        {"Skinchanger: Skins were restored.", "スキンチェンジャー: 元のスキンに戻りました"},
 
         // Menu
         {"Premium Identity V Cheat", "最高級の第五人格チート"},
@@ -413,7 +413,7 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"Dungeon", "ハッチ"},
         {"Draw dungeon", "ハッチを描画"},
         {"Draw chests", "宝箱を描画"},
-        {"Chests", "宝箱"}
+        {"Chests", "宝箱"},
 
         {"THEME", "テーマ"},
         {"Blue", "青"},
