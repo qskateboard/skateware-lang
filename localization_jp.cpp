@@ -24,7 +24,7 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"CN DMA Cheat", "中国DMA版"},
 
         {"Cant connect to server.", "サーバーに接続できません"},
-        {"Invalid login or password.", "無効なログインまたはパスワード"},
+        {"Invalid login or password.", "ログインまたはパスワードが間違えています"},
         {"Invalid HWID.", "無効なHWID。"},
         {"Cant get cheat version.", "チートバージョンを取得できません"},
         {"Cheat was updated. Restart loader", "チートが更新されました。ローダーを再起動してください"},
@@ -87,7 +87,7 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"Faro Lady", "レディファウロ"},
         {"Fire Investigator", "火災調査員"},
 
-        {"Hell Ember", "レオ"},
+        {"Hell Ember", "復讐者"},
         {"Smiley Face", "道化師"},
         {"Gamekeeper", "断罪狩人"},
         {"Ripper", "リッパー"},
@@ -200,7 +200,7 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {") Predicted(", ") 予測("},
         {") Antibaited(", ") フェイント対策("},
         {"Umbrella mark is under survivor, teleporting...", "傘マークがサバイバーの近くにあるため、テレポート中..."},
-        {"Waiting for the opponent to choose...", "相手が選択するのを待っています..."},
+        {"Waiting for the opponent to choose...", "ハンターのキャラ選択を待っています..."},
         {"The opponent chose: ", "ハンターのキャラ選択: "},
         {"The first opponent chose: ", "1番目のハンターのキャラ選択: "},
         {"Hunter Indicator", "ハンター表示"},
@@ -222,7 +222,7 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"Detention", "引き留める"},
         {"Insolence", "傲慢"},
         {" (Bot)", " (ボット)"},
-        {", Skill: ", ", スキル: "},
+        {", Skill: ", ", 特質: "},
         {", Talents: ", ", 人格: "},
         {"Bot", "ボット"},
         {"[ Destroyed ]", "[ 破壊済み ]"},
@@ -269,7 +269,7 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"You dont have access to Chinese version of the hack.", "中国語版のチートにアクセスできません"},
         {"You can open the menu with the \"F11\" button", "\"F11\"キーでメニューを開くことができます"},
         {"Fonts was rebuilded", "フォントが再構築されました"},
-        {"Cannot find target window!", "ターゲットウィンドウが見つかりません！"},
+        {"Cannot find target window!", "Cannot find target window!"},
         {"Skinchanger: Skin was applied.", "衣装変更: 衣装が適用されました"},
         {"Skinchanger: Skins were restored.", "衣装変更: 元の衣装に戻りました"}
         
@@ -304,7 +304,7 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"Help with cursor fine-tuning", "カーソル移動の補助"},
         {"Auto Fire", "自動攻撃"},
         {"Predict", "予測"},
-        {"FOV Radius", "FOV範囲"},
+        {"FOV Radius", "FOV半径"},
         {"Target", "対象"},
         {"Mode", "モード"},
         {"Distance Mode", "距離モード"},
@@ -399,7 +399,7 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"Draw hunter", "ハンターを描画"},
         {"Peeper ESP", "監視者ESP"},
         {"Show while waiting", "待機中も表示"},
-        {"Show skill indicator", "スキルCT表示"},
+        {"Show skill indicator", "特質CT表示"},
         {"Pallets", "板"},
         {"Draw pallets", "板を描画"},
         {"Draw status", "状態を描画"},
@@ -450,8 +450,8 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"Python", "Python"},
         {"Extend functionality now!", "今すぐ機能を拡張しよう!"},
         {"Enable", "有効化"},
-        {"Show nicknames", "ニックネーム表示"},
-        {"Show skill", "スキル表示"},
+        {"Show nicknames", "名前表示"},
+        {"Show skill", "特質表示"},
         {"Show talents", "人格表示"},
         {"Show bots", "ボット表示"},
         {"Python not initialised", "Pythonが初期化されていません"},
@@ -508,6 +508,8 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"Harpoon", "銛"},
         {"Remnant", "残影"},
         {"Nightmare's crow", "渡鴉"},
+        {"Wall", "仕掛け壁"},
+        {"Console", "コンソール"},
     };
 }
 
