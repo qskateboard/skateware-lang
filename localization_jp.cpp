@@ -516,6 +516,7 @@ inline std::unordered_map<std::string, std::string> getJapaneseTranslations() {
         {"Russian", "ロシア語"},
         {"Chinese", "中国語"},
         {"Japanese", "日本語"},
+        {"Goatman", "足萎えの羊"},
     };
 }
 
