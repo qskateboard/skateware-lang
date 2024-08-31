@@ -83,7 +83,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         {"Journalist", "记者"},
         {"Aeroplanist", "飞行家"},
         {"Cheerleader", "拉拉队员"},
-        {"Puppeteer", "傀儡师"},
+        {"Puppeteer", "木偶师"},
         {"Faro Lady", "法罗女士"},
         {"Fire Investigator", "火灾调查员"},
 
@@ -123,6 +123,8 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         {"Fool's Gold", "愚人金"},
         {"The Shadow", "时空之影"},
         {"The Yithian", "伊斯人"},
+        {"Goatman", "跛脚羊"},
+        
 
         { "Syringe", "镇静剂" },
         { "Map", "手绘地图" },
