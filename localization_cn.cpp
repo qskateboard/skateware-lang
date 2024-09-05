@@ -125,7 +125,6 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         {"The Yithian", "伊斯人"},
         {"Goatman", "跛脚羊"},
         
-
         { "Syringe", "镇静剂" },
         { "Map", "手绘地图" },
         { "Flashlight", "手电筒" },
@@ -197,6 +196,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         { "Pickaxe", "矿镐" },
         { "Magnetic Rock", "磁场引石" },
         { "Corrupted Ostracon", "侵蚀陶片" },
+        { "Cage of Lost Lambs", "迷失之笼" },
 
         // features
         { "Fire attack triggered on ", "鬼火攻击已触发于 " },
