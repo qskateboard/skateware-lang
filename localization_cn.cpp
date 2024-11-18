@@ -84,8 +84,9 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         {"Aeroplanist", "飞行家"},
         {"Cheerleader", "拉拉队员"},
         {"Puppeteer", "木偶师"},
-        {"Faro Lady", "法罗女士"},
         {"Fire Investigator", "火灾调查员"},
+        {"Faro Lady", "法罗女士"},
+        {"Knight", "骑士"},
 
         {"Hell Ember", "厂长"},
         {"Smiley Face", "小丑"},
@@ -124,6 +125,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         {"The Shadow", "时空之影"},
         {"The Yithian", "伊斯人"},
         {"Goatman", "跛脚羊"},
+        {"Hullabaloo", "喧嚣"},
         
         { "Syringe", "镇静剂" },
         { "Map", "手绘地图" },
@@ -166,7 +168,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         { "Boar", "野猪" },
         { "Swarm of Bees", "虫群" },
         { "Professor's Scale", "教授鳞片" },
-        { "Orpheus", "小奥菲" },
+        { "Orpheus", "奥菲" },
         { "Inflatable Airbag", "石棉气囊" },
 
         { "Patroller", "巡视者" },
@@ -259,7 +261,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         { "Don't forget to check out our FAQ section for answers to common questions.",
             "别忘了查看我们的常见问题部分, 了解常见问题的答案. " },
         { "Skateware Lua API is designed to be easy to use, even if you're new to game development. Give it a try!",
-            "Skateware Lua API 易于使用, 即使您是游戏开发的新手也能轻松上手. 快来试试吧" },
+            "Skateware Lua API 易于使用, 即使您是游戏开发的新手也能轻松上手. 快来试试吧! " },
         {  "Did you know that Skateware has a Lua API? With Lua scripting, you can customize your game and add new features with ease.",
             "您知道Skateware有一个Lua API吗? 通过Lua脚本, 您可以轻松定制您的游戏并添加新功能. " },
         { "Calling all developers! Our Lua API makes it easy to create custom gameplay mechanics and more. Give it a try!",
@@ -508,7 +510,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         { "Aimbot: ", "自瞄: " },
         { "Auto skill: ", "距离技能: " },
         { "Wu Chang Helper: ", "宿伞辅助: " },
-        { "Lag Switch: ", "网络开关: " },
+        { "Lag Switch: ", "延迟开关: " },
 
     };
 }
