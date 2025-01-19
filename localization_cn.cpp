@@ -87,6 +87,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         {"Fire Investigator", "火灾调查员"},
         {"Faro Lady", "法罗女士"},
         {"Knight", "骑士"},
+        {“Meteorologist”, “气象学家”},
 
         {"Hell Ember", "厂长"},
         {"Smiley Face", "小丑"},
